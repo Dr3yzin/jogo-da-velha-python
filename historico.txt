@@ -1,0 +1,10 @@
+Andrey - VS - Leo = Deu foi velha
+Andrey - VS - Leo = Andrey
+isa - VS - andré = Deu foi velha
+Andrey - VS - Marcia = Marcia
+Player 1 - VS - Player 2 = Deu foi velha
+Player 1 - VS - Player 2 = Player 1
+Player 1 - VS - Player 2 = Player 1
+Player 1 - VS - Player 2 = Player 1
+Clebinho - VS - Andrey = Clebinho
+Player 1 - VS - Player 2 = Deu foi velha
