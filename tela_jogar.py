@@ -76,6 +76,8 @@ class jogar:
             self.redefinir()
             aux = vitoria(self.player2, self.player1, self.player2)
             aux.guardar_txt()
+            self.tela_jogar.destroy()
+            self.menu()
             aux.vitoria()
 
 
@@ -83,6 +85,8 @@ class jogar:
             self.redefinir()
             aux = vitoria('Deu foi velha', self.player1, self.player2)
             aux.guardar_txt()
+            self.tela_jogar.destroy()
+            self.menu()
             aux.vitoria()
 
 
